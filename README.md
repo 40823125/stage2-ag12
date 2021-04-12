@@ -1,2 +1,2 @@
 # cmstemplate
-https://40823125.github.io/stage2-ag12/
+https://40823152.github.io/stage2-ag12/content/index.html
