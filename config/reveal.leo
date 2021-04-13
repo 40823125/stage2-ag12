@@ -21,6 +21,7 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210413201717.1"><vh>slide 2</vh>
 <v t="leo.20210413201558.1"><vh>slide 2-1</vh></v>
+<v t="leo.20210413202946.1"><vh>slide 2-2</vh></v>
 </v>
 <v t="leo.20210413202009.1"><vh>slide  3</vh>
 <v t="leo.20210413202023.1"><vh>slide  3-1</vh></v>
@@ -33,7 +34,8 @@
 <v t="leo.20200818170636.1"><vh>slide 5</vh>
 <v t="leo.20200818170909.1"><vh>slide 5-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 5-2</vh></v>
-<v t="leo.20210413193952.1"><vh>slide 5-3</vh></v>
+<v t="leo.20210413203210.1"><vh>slide 5-3</vh></v>
+<v t="leo.20210413193952.1"><vh>slide 5-4</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 6</vh>
 <v t="leo.20210413194331.1"><vh>slide 6-1</vh></v>
@@ -213,36 +215,36 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
 &lt;h2&gt;W6&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1zqnQdyXmb-uHGltAk5lSACNNUaOuthIN?usp=sharing"&gt;籃球機2.2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/2.2-1.jpg" alt="" width="500" height="237"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.2-1.jpg" alt="" width="500" height="237"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
- &lt;p&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/fPKHOBXYZwY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;iframe width="560" height="350" src="//www.youtube.com/embed/fPKHOBXYZwY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
 &lt;h1&gt;W8&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1CCFrCBzbBhC9gnwaUUMYi5Cf7kd8Xkcz?usp=sharing"&gt;籃球機2.4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/2.4-2.jpg" alt="" width="500" height="237"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="500" height="237"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210413193331.1">&lt;section&gt;
 &lt;h2&gt;W5&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1wxw3JJsXfnXkaYdWfED0NG7M9g2PI26I?usp=sharing"&gt;籃球機2.1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/2.1-1.jpg" alt="" width="500" height="239"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.1-1.jpg" alt="" width="500" height="239"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193421.1">&lt;section&gt;
-&lt;p&gt;&lt;img src="/images/2.1-2.jpg" alt="" width="500" height="240"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.1-2.jpg" alt="" width="500" height="240"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193952.1">&lt;section&gt;
 &lt;h1&gt;有框版&lt;/h1&gt;
-&lt;p&gt;&lt;img src="/images/2.2-4.jpg" alt="" width="500" height="236"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.2-4.jpg" alt="" width="500" height="236"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194331.1">&lt;section&gt;
 &lt;h2&gt;W7&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1gVL4FmbeqfpH1UVUGS85cwdQSOvvy683?usp=sharing"&gt;籃球機2.3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/2.3-2.jpg" alt="" width="500" height="238"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.3-2.jpg" alt="" width="500" height="238"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194500.1">&lt;section&gt;
 &lt;p&gt;&lt;span&gt;CoppeliaSim v-rep &lt;/span&gt;連桿運動問題&lt;/p&gt;
@@ -260,7 +262,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210413195149.1">&lt;section&gt;
 &lt;p&gt;在協同時因為組員們的倉儲版本不同導致無法推送&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/螢幕擷取畫面 2021-04-13 194559.jpg" alt="" width="500" height="113"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img  src="./../images/螢幕擷取畫面 2021-04-13 194559.jpg" alt="" width="500" height="113"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;最後我們只好將版本不同的倉儲刪掉重新協同&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413201558.1">&lt;section&gt;
@@ -270,10 +272,6 @@ vertical: body pane on the botton</t>
 &lt;p&gt;第一次小組產品的籃球機只能自己轉動無法控制，所以二代的籃球機目標增加案件控制轉動。&lt;/p&gt;
 &lt;p&gt;製作規劃:&lt;/p&gt;
 &lt;p&gt;w5:確認主題，工作分配&lt;/p&gt;
-&lt;p&gt;w6:尋找lua程式與&lt;span&gt;coppeliaSim 文章&lt;/span&gt;，並且使用lua程式控制軸在coppeliaSim裡模擬，籃球機外觀修整。&lt;/p&gt;
-&lt;p&gt;w7:完成按鍵控制程式與模擬&lt;span&gt;，籃球機外觀修整。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w8:除錯與修整，完成簡報與pdf&lt;/p&gt;
-&lt;p&gt;w9:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413201717.1">&lt;section&gt;
     @others
@@ -283,11 +281,21 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210413202023.1">&lt;section&gt;
 &lt;h2&gt;Lua control speed&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xGjKBDXPFs"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="350" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xGjKBDXPFs"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413202055.1">&lt;section&gt;
 &lt;h2&gt;keyboard control&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/A5Ws3gGDpjc"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/A5Ws3gGDpjc"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210413202946.1">&lt;section&gt;
+&lt;p&gt;w6:尋找lua程式與&lt;span&gt;coppeliaSim 文章&lt;/span&gt;，並且使用lua程式控制軸在coppeliaSim裡模擬，籃球機外觀修整。&lt;/p&gt;
+&lt;p&gt;w7:完成按鍵控制程式與模擬&lt;span&gt;，籃球機外觀修整。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;w8:除錯與修整，完成簡報與pdf&lt;/p&gt;
+&lt;p&gt;w9:報告&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210413203210.1">&lt;section&gt;
+&lt;h1&gt;無框版&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="237" src="./../images/2.2-3.jpg" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
