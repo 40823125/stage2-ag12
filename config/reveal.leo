@@ -26,6 +26,7 @@
 <v t="leo.20210413202009.1"><vh>slide  3</vh>
 <v t="leo.20210413202023.1"><vh>slide  3-1</vh></v>
 <v t="leo.20210413202055.1"><vh>slide  3-2</vh></v>
+<v t="leo.20210415133637.1"><vh>slide  3-2</vh></v>
 </v>
 <v t="leo.20200818170535.1"><vh>slide  4</vh>
 <v t="leo.20210413193331.1"><vh>slide 4-1</vh></v>
@@ -46,6 +47,7 @@
 <v t="leo.20200818171138.1"><vh>slide 7-1</vh></v>
 </v>
 <v t="leo.20210413195149.1"><vh>slide 8</vh></v>
+<v t="leo.20210415134439.1"><vh>slide 9</vh></v>
 </v>
 </v>
 </v>
@@ -215,54 +217,53 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
 &lt;h2&gt;W6&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1zqnQdyXmb-uHGltAk5lSACNNUaOuthIN?usp=sharing"&gt;籃球機2.2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../images/2.2-1.jpg" alt="" width="500" height="237"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.2-1.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
- &lt;p&gt;&lt;iframe width="560" height="350" src="//www.youtube.com/embed/fPKHOBXYZwY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;iframe width="600" height="500" src="//www.youtube.com/embed/fPKHOBXYZwY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
 &lt;h1&gt;W8&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1CCFrCBzbBhC9gnwaUUMYi5Cf7kd8Xkcz?usp=sharing"&gt;籃球機2.4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="500" height="237"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210413193331.1">&lt;section&gt;
 &lt;h2&gt;W5&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1wxw3JJsXfnXkaYdWfED0NG7M9g2PI26I?usp=sharing"&gt;籃球機2.1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../images/2.1-1.jpg" alt="" width="500" height="239"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.1-1.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193421.1">&lt;section&gt;
-&lt;p&gt;&lt;img src="./../images/2.1-2.jpg" alt="" width="500" height="240"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../images/2.1-2.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193952.1">&lt;section&gt;
 &lt;h1&gt;有框版&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.2-4.jpg" alt="" width="500" height="236"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.2-4.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194331.1">&lt;section&gt;
 &lt;h2&gt;W7&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1gVL4FmbeqfpH1UVUGS85cwdQSOvvy683?usp=sharing"&gt;籃球機2.3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.3-2.jpg" alt="" width="500" height="238"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.3-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194500.1">&lt;section&gt;
 &lt;p&gt;&lt;span&gt;CoppeliaSim v-rep &lt;/span&gt;連桿運動問題&lt;/p&gt;
 &lt;p&gt;一開始在&lt;span&gt;CoppeliaSim&lt;/span&gt;上模擬發現模型無法順利地運轉&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/kpUwzR1XGkY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/kpUwzR1XGkY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194505.1">&lt;section&gt;
-&lt;p&gt;&lt;span&gt;CoppeliaSim v-rep &lt;/span&gt;連桿運動問題 解決&lt;/p&gt;
-&lt;p&gt;後來才發現原來是尺寸的問題&lt;/p&gt;
-&lt;p&gt;由於&lt;span&gt;coppliasim&lt;/span&gt;對與尺寸可能無法到&lt;span&gt;inventor&lt;/span&gt;那麼精準所以要預留空隙&lt;span&gt;,&lt;/span&gt;才能順利運轉&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/97fUChcmisk" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;CoppeliaSim v-rep 連桿運動問題解決&lt;/p&gt;
+&lt;p&gt;後來才發現原來是尺寸的問題,由於coppliasim對與尺寸可能無法到inventor那麼精準所以要預留空隙,才能順利運轉&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/97fUChcmisk" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194800.1">&lt;section&gt;
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210413195149.1">&lt;section&gt;
 &lt;p&gt;在協同時因為組員們的倉儲版本不同導致無法推送&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img  src="./../images/螢幕擷取畫面 2021-04-13 194559.jpg" alt="" width="500" height="113"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img  src="./../images/螢幕擷取畫面 2021-04-13 194559.jpg" alt="" width="700" height="350"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;最後我們只好將版本不同的倉儲刪掉重新協同&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413201558.1">&lt;section&gt;
@@ -281,11 +282,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210413202023.1">&lt;section&gt;
 &lt;h2&gt;Lua control speed&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="350" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xGjKBDXPFs"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="500" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xGjKBDXPFs"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413202055.1">&lt;section&gt;
 &lt;h2&gt;keyboard control&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/A5Ws3gGDpjc"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="500" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/A5Ws3gGDpjc"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413202946.1">&lt;section&gt;
 &lt;p&gt;w6:尋找lua程式與&lt;span&gt;coppeliaSim 文章&lt;/span&gt;，並且使用lua程式控制軸在coppeliaSim裡模擬，籃球機外觀修整。&lt;/p&gt;
@@ -295,7 +296,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210413203210.1">&lt;section&gt;
 &lt;h1&gt;無框版&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;&lt;img alt="" height="237" src="./../images/2.2-3.jpg" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="450" src="./../images/2.2-3.jpg" width="700"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210415133637.1">&lt;section&gt;
+&lt;p&gt;由於程式輸入的軸速的數值,並非等速度而是由0加速到我們需要的數值,之後才維持等速度&lt;/p&gt;
+&lt;p&gt;導致擊球後的位置都不同&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210415134439.1">&lt;section&gt;
+&lt;h2&gt;參考資料&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsLua.htm"&gt;coppeliaSim Lua 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm"&gt;coppeliaSim Lua 2&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
