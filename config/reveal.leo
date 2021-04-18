@@ -22,6 +22,7 @@
 <v t="leo.20210413201717.1"><vh>slide 2</vh>
 <v t="leo.20210413201558.1"><vh>slide 2-1</vh></v>
 <v t="leo.20210413202946.1"><vh>slide 2-2</vh></v>
+<v t="leo.20210418230603.1"><vh>slide 2-3</vh></v>
 </v>
 <v t="leo.20210413202009.1"><vh>slide  3</vh>
 <v t="leo.20210413202023.1"><vh>slide  3-1</vh></v>
@@ -48,6 +49,7 @@
 </v>
 <v t="leo.20210413195149.1"><vh>slide 8</vh></v>
 <v t="leo.20210415134439.1"><vh>slide 9</vh></v>
+<v t="leo.20210418230326.1"><vh>slide 10</vh></v>
 </v>
 </v>
 </v>
@@ -195,8 +197,10 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
 &lt;h1&gt;Stage2-ag12 期中報告&lt;/h1&gt;
-&lt;p&gt;組長:40823152&lt;/p&gt;
-&lt;p&gt;組員:40823110、40823125、40823153&lt;/p&gt;
+&lt;p&gt;組長:&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://github.com/40823152/cd2021"&gt;40823152 repo&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://40823152.github.io/cd2021"&gt;40823152 site&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;組員:&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://github.com/40823153/cd2021"&gt;40823153 repo&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://40823153.github.io/cd2021"&gt;40823153 site&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://github.com/40823125/cd2021"&gt;40823125 repo&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://40823125.github.io/cd2021"&gt;40823125 site&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://github.com/40823110/cd2021"&gt;40823110 repo&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;|&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://40823110.github.io/cd2021"&gt;40823110 site&lt;/a&gt;&amp;nbsp;|&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -304,8 +308,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210415134439.1">&lt;section&gt;
 &lt;h2&gt;參考資料&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsLua.htm"&gt;coppeliaSim Lua 1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm"&gt;coppeliaSim Lua 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsLua.htm"&gt;Remote API functions (Lua)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm"&gt;Regular API reference&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210418230326.1">&lt;section&gt;
+&lt;h2&gt;PDF報告&lt;/h2&gt;
+&lt;p&gt;&lt;iframe height="550" src="./../downloads/2021-協同產品設計實習-stage2-ag12.pdf" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210418230603.1">&lt;/section&gt;
+&lt;p&gt;工作流程&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="./../images/Screenshot 2021-04-15 155510.png" width="600" height="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
