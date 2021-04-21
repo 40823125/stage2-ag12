@@ -46,6 +46,9 @@
 </v>
 <v t="leo.20210413194800.1"><vh>slide 7</vh>
 <v t="leo.20200818171138.1"><vh>slide 7-1</vh></v>
+<v t="leo.20210421095548.1"><vh>slide 7-2</vh></v>
+<v t="leo.20210421095625.1"><vh>slide 7-3</vh></v>
+<v t="leo.20210421095747.1"><vh>slide 7-4</vh></v>
 </v>
 <v t="leo.20210413195149.1"><vh>slide 8</vh></v>
 <v t="leo.20210415134439.1"><vh>slide 9</vh></v>
@@ -229,8 +232,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-&lt;h1&gt;W8&lt;/h1&gt;
+&lt;h2&gt;W8&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1CCFrCBzbBhC9gnwaUUMYi5Cf7kd8Xkcz?usp=sharing"&gt;籃球機2.4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.4.1&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -319,5 +323,20 @@ vertical: body pane on the botton</t>
 &lt;p&gt;工作流程&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="./../images/Screenshot 2021-04-15 155510.png" width="600" height="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210421095548.1">&lt;section &gt;
+&lt;h3&gt;&lt;strong&gt;2.4.2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/C-K8pxvnJJE"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210421095625.1">&lt;section &gt;
+&lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/w2pv5GlT988"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210421095747.1">&lt;section &gt;
+&lt;h3&gt;&lt;strong&gt;2.4.3&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;擊球桿新增後轉功能，可以有效控制擊球的時機。&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/R4FlyPlJxqw"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section &gt;</t>
 </tnodes>
 </leo_file>
