@@ -52,13 +52,12 @@
 <p>w8:除錯與修整，完成簡報與pdf</p>
 <p></p>
 <p>w9:報告</p>
-<h2>Lua control speed</h2>
-<p></p>
+<h1>coppeliaSim模擬</h1><h2>Lua control speed</h2>
+<p>使用Lua程式控制coppeliaSim擊球桿的轉速</p>
 <p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/4xGjKBDXPFs" width="560"></iframe></p>
-<p></p>
-<h2>keyboard control</h2>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/A5Ws3gGDpjc" width="560"></iframe></p>
-<h2>Inquire keyboard number</h2>
+<p></p><h2>keyboard control</h2>
+<p>使用Lua程式寫出可以由鍵盤按鈕控制coppeliaSim的擊球桿</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/A5Ws3gGDpjc" width="560"></iframe></p><h2>Inquire keyboard number</h2>
 <p>查詢keyboard按鍵</p>
 <div>
 <div class="syntaxhighlighter lua" id="highlighter_54881">
@@ -84,7 +83,10 @@
 <p>介紹:</p>
 <p>可以查詢鍵盤代碼</p>
 <p></p>
-<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/4xye0RDVC8Y" width="560"></iframe></p><h1>籃球機</h1>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/4xye0RDVC8Y" width="560"></iframe></p>
+<h2>Lua keyboard Turn back</h2>
+<p>擊球桿新增後轉功能，可以有效控制擊球的時機。</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/R4FlyPlJxqw" width="560"></iframe></p><h1>籃球機</h1>
 <p>參考資料</p>
 <p><a href="https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsLua.htm">coppeliaSim Lua 1</a></p>
 <p><a href="https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm">coppeliaSim Lua 2</a></p>
@@ -103,42 +105,80 @@
 <h2>版本二</h2>
 <h3>2.1</h3>
 <p><a href="https://drive.google.com/drive/folders/1wxw3JJsXfnXkaYdWfED0NG7M9g2PI26I?usp=sharing">籃球機2.1</a></p>
+<p>設計緣由:想藉由曲柄連桿擊打球,方便coppeliaSim模擬與修正</p>
 <p><img alt="" height="239" src="https://40823125.github.io/stage2-ag12/images/2.1-1.jpg" width="500"/></p>
+<p>連桿機構的特點：</p>
+<p>優點：運動副單位面積所受的壓力小且面接觸受力小，便於潤滑，磨損小；製造方便。</p>
+<p>缺點：設計複雜誤差大。工作效率低。</p>
+<p></p>
+<p><span style="color: #000000; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">原文網址：</span><a href="https://kknews.cc/news/3l5m3ey.html" style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Open Sans', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #000000; text-decoration: none; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f7f7f7;">https://kknews.cc/news/3l5m3ey.html</a></p>
 <p><img alt="" height="240" src="https://40823125.github.io/stage2-ag12/images/2.1-2.jpg" width="500"/></p>
+<p>主要問題:</p>
+<p>1.過於簡陋</p>
+<p>2.擊球桿會撞到基座</p>
+<p>改善方法:</p>
+<p>1.擊球桿的形狀</p>
+<p>2.滑塊的距離縮短</p>
 <h3>2.2</h3>
 <p><a href="https://drive.google.com/drive/folders/1zqnQdyXmb-uHGltAk5lSACNNUaOuthIN?usp=sharing">籃球機2.2</a></p>
 <p><strong>無框版</strong></p>
+<p>設計緣由:</p>
+<p>1.想將擊球點角度提高,所以將擊球桿形狀設計的像車刀一樣。</p>
+<p>2.為了讓擊球時滑塊的支點不會滑動,而且球掉落在頂端時有停頓的時間</p>
 <p><img alt="" height="237" src="https://40823125.github.io/stage2-ag12/images/2.2-1.jpg" width="500"/></p>
 <p><img alt="" height="237" src="https://40823125.github.io/stage2-ag12/images/2.2-2.jpg" width="500"/></p>
 <p><img alt="" height="239" src="https://40823125.github.io/stage2-ag12/images/2.2-3.jpg" width="500"/></p>
+<p></p>
 <p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/fPKHOBXYZwY" width="560"></iframe></p>
+<p>主要問題:</p>
+<p>1.滑塊會撞到曲柄</p>
+<p>改善方法:</p>
+<p>1.擊球桿改為直的</p>
 <h4><strong>有框版</strong></h4>
+<p>設計緣由:為了讓滑塊不會撞到曲柄,所以將擊球桿改為直的</p>
 <p><img alt="" height="236" src="https://40823125.github.io/stage2-ag12/images/2.2-4.jpg" width="500"/></p>
 <p><img alt="" height="238" src="https://40823125.github.io/stage2-ag12/images/2.2-5.jpg" width="500"/></p>
-<h3>2.3</h3>
+<p>主要問題:</p>
+<p>1.球模擬時不一定是直線</p>
+<p>改善方法:</p>
+<p>1.所以將斜坡面積變大</p><h3>2.3</h3>
 <p><a href="https://drive.google.com/drive/folders/1gVL4FmbeqfpH1UVUGS85cwdQSOvvy683?usp=sharing">籃球機2.3</a></p>
+<p>設計緣由:</p>
+<p>1.為了確定可以完整的接到球,所以將斜坡面積變大</p>
+<p>2.為了讓滑塊不會撞到曲柄,所以改為曲柄滑塊機構</p>
 <p><img alt="" height="238" src="https://40823125.github.io/stage2-ag12/images/2.3-1.jpg" width="500"/></p>
 <p><img alt="" height="238" src="https://40823125.github.io/stage2-ag12/images/2.3-2.jpg" width="500"/></p>
-<p><span>CoppeliaSim v-rep 連桿運動問題</span></p>
+<p>主要問題:</p>
+<p>1.斜面的接球太斜而且不夠深,會導致球掉出來</p>
+<p>2.CoppeliaSim v-rep 連桿運動問題</p>
 <p><span>一開始在CoppeliaSim上模擬發現模型無法順利地運轉</span></p>
-<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/kpUwzR1XGkY" width="560"></iframe></p>
-<p><span>CoppeliaSim v-rep 連桿運動問題 解決</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="450" src="//www.youtube.com/embed/kpUwzR1XGkY" width="600"></iframe></p>
+<p><span>改善方法:</span></p>
+<p><span>1.將斜面挖深,並且將斜面改為單斜而不是曲型</span></p>
+<p><span>2.CoppeliaSim v-rep 連桿運動問題 解決</span></p>
 <p><span>後來才發現原來是尺寸的問題</span></p>
 <p><span>由於coppliasim對與尺寸可能無法到inventor那麼精準所以要預留空隙,才能順利運轉</span></p>
 <p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/97fUChcmisk" width="560"></iframe></p>
 <div class="container"><nav>
-<div id="tipue_search_content">
-<h3>2.4</h3>
+<div id="tipue_search_content"></div>
+</nav></div><h3>2.4</h3>
 <p><a href="https://drive.google.com/drive/u/2/folders/1XVRti_HtuKFJgPpvFl1Ar3qx7v50zjCz">籃球機2.4</a></p>
 <p><strong>2.4.1</strong></p>
+<p>設計緣由:</p>
+<p>1.為了確定可以完整的接到球,所以將斜坡面積挖深並改為單斜面</p>
+<p>2.為了滑動流暢將滑塊改為圓形</p>
+<p>3.想將擊球點角度提高,所以將擊球桿的擊球面設計為平面</p>
 <p><img alt="" height="237" src="https://40823125.github.io/stage2-ag12/images/2.4-1.jpg" width="500"/></p>
 <p><img alt="" height="237" src="https://40823125.github.io/stage2-ag12/images/2.4-2.jpg" width="500"/></p>
+<p>主要問題:</p>
+<p>1.擊球時,球無法順利擊飛</p>
+<p>改善方法:</p>
+<p>1.將擊球桿的擊球面改為曲型</p>
 <p><strong>2.4.2</strong></p>
+<p>設計緣由:為了讓球順利擊飛,所以將擊球桿的擊球面改為曲型</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/C-K8pxvnJJE" width="560"></iframe></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/w2pv5GlT988" width="560"></iframe></p>
-<p><strong>2.4.3</strong></p>
-<p>擊球桿新增後轉功能，可以有效控制擊球的時機。</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/R4FlyPlJxqw" width="560"></iframe></p><h1>Heroku 網站建立</h1>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/w2pv5GlT988" width="560"></iframe><strong><br/></strong></p>
+<p></p><h1>Heroku 網站建立</h1>
 <p><a href="https://stage2-ag12.herokuapp.com/content/index.html">stage2-ag12-heroku網站</a></p>
 <p><strong>1.開通 Heroku 帳號(用學校email建立)</strong></p>
 <p><strong>2.建立一個 Herokuapp</strong></p>
@@ -168,4 +208,4 @@ heroku git:remote -a 名稱</pre>
 <p><img alt="" height="113" src="/images/螢幕擷取畫面 2021-04-13 194559.jpg" width="500"/></p>
 <p>最後我們只好將版本不同的倉儲刪掉重新協同</p>
 <h1>協同報告</h1>
-<p><a href="/downloads/2021-協同產品設計實習-stage2-ag12.pdf">2021-協同產品設計實習-stage2-ag12.pdf</a></p></div></nav></div>
+<p><a href="/downloads/2021-協同產品設計實習-stage2-ag12.pdf">2021-協同產品設計實習-stage2-ag12.pdf</a></p>

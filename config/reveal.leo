@@ -29,32 +29,41 @@
 <v t="leo.20210413202055.1"><vh>slide  3-2</vh></v>
 <v t="leo.20210415133637.1"><vh>slide  3-2</vh></v>
 <v t="leo.20210421172856.1"><vh>slide  3-3</vh></v>
-<v t="leo.20210421173336.1"><vh>newHeadline</vh></v>
+<v t="leo.20210421173336.1"><vh>slide  3-4</vh></v>
+<v t="leo.20210421200138.1"><vh>slide  3-5</vh></v>
 </v>
 <v t="leo.20200818170535.1"><vh>slide  4</vh>
 <v t="leo.20210413193331.1"><vh>slide 4-1</vh></v>
 <v t="leo.20210413193421.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210421200443.1"><vh>slide 4-2</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide 5</vh>
 <v t="leo.20200818170909.1"><vh>slide 5-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 5-2</vh></v>
-<v t="leo.20210413203210.1"><vh>slide 5-3</vh></v>
-<v t="leo.20210413193952.1"><vh>slide 5-4</vh></v>
+<v t="leo.20210413203210.1"><vh>slide 5-2</vh></v>
+<v t="leo.20200818170953.1"><vh>slide 5-3</vh></v>
+<v t="leo.20210421202025.1"><vh>slide 5-4</vh></v>
+<v t="leo.20210413193952.1"><vh>slide 5-5</vh></v>
+<v t="leo.20210421202215.1"><vh>slide 5-6</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 6</vh>
 <v t="leo.20210413194331.1"><vh>slide 6-1</vh></v>
-<v t="leo.20210413194500.1"><vh>slide 6-2</vh></v>
-<v t="leo.20210413194505.1"><vh>slide 6-3</vh></v>
+<v t="leo.20210421202515.1"><vh>slide 6-2</vh></v>
+<v t="leo.20210413194500.1"><vh>slide 6-3</vh></v>
+<v t="leo.20210421202628.1"><vh>slide 6-4</vh></v>
+<v t="leo.20210413194505.1"><vh>slide 6-5</vh></v>
+<v t="leo.20210421202606.1"><vh>slide 6-6</vh></v>
 </v>
 <v t="leo.20210413194800.1"><vh>slide 7</vh>
 <v t="leo.20200818171138.1"><vh>slide 7-1</vh></v>
-<v t="leo.20210421095548.1"><vh>slide 7-2</vh></v>
-<v t="leo.20210421095625.1"><vh>slide 7-3</vh></v>
-<v t="leo.20210421095747.1"><vh>slide 7-4</vh></v>
+<v t="leo.20210421202706.1"><vh>slide 7-2</vh></v>
+<v t="leo.20210421201139.1"><vh>slide 7-3</vh></v>
+<v t="leo.20210421095548.1"><vh>slide 7-4</vh></v>
+<v t="leo.20210421095625.1"><vh>slide 7-5</vh></v>
 </v>
 <v t="leo.20210413195149.1"><vh>slide 8</vh></v>
-<v t="leo.20210415134439.1"><vh>slide 9</vh></v>
-<v t="leo.20210418230326.1"><vh>slide 10</vh></v>
+<v t="leo.20210421201250.1"><vh>slide 9</vh></v>
+<v t="leo.20210415134439.1"><vh>slide 10</vh></v>
+<v t="leo.20210418230326.1"><vh>slide 11</vh></v>
 </v>
 </v>
 </v>
@@ -226,7 +235,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
 &lt;h2&gt;W6&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1zqnQdyXmb-uHGltAk5lSACNNUaOuthIN?usp=sharing"&gt;籃球機2.2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../images/2.2-1.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
+&lt;p&gt;設計緣由:&lt;/p&gt;
+&lt;p&gt;1.想將擊球點角度提高,所以將擊球桿形狀設計的像車刀一樣。&lt;/p&gt;
+&lt;p&gt;2.為了讓擊球時滑塊的支點不會滑動,而且球掉落在頂端時有停頓的時間&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
@@ -237,36 +248,48 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;W8&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1CCFrCBzbBhC9gnwaUUMYi5Cf7kd8Xkcz?usp=sharing"&gt;籃球機2.4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2.4.1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="600" height="400"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;設計緣由:&lt;/p&gt;
+&lt;p&gt;1.為了確定可以完整的接到球,所以將斜坡面積挖深並改為單斜面&lt;/p&gt;
+&lt;p&gt;2.為了滑動流暢將滑塊改為圓形&lt;/p&gt;
+&lt;p&gt;3.想將擊球點角度提高,所以將擊球桿的擊球面設計為平面&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210413193331.1">&lt;section&gt;
 &lt;h2&gt;W5&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1wxw3JJsXfnXkaYdWfED0NG7M9g2PI26I?usp=sharing"&gt;籃球機2.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;設計緣由:想藉由曲柄連桿擊打球,方便coppeliaSim模擬與修正&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../images/2.1-1.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193421.1">&lt;section&gt;
+&lt;p&gt;連桿機構的特點：&lt;/p&gt;
+&lt;p&gt;優點：運動副單位面積所受的壓力小且面接觸受力小，便於潤滑，磨損小；製造方便。&lt;/p&gt;
+&lt;p&gt;缺點：設計複雜誤差大。工作效率低。&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../images/2.1-2.jpg" alt="" width="700" height="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413193952.1">&lt;section&gt;
 &lt;h1&gt;有框版&lt;/h1&gt;
+&lt;p&gt;設計緣由:為了讓滑塊不會撞到曲柄,所以將擊球桿改為直的&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.2-4.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194331.1">&lt;section&gt;
 &lt;h2&gt;W7&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1gVL4FmbeqfpH1UVUGS85cwdQSOvvy683?usp=sharing"&gt;籃球機2.3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.3-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;設計緣由:&lt;/p&gt;
+&lt;p&gt;1.為了確定可以完整的接到球,所以將斜坡面積變大&lt;/p&gt;
+&lt;p&gt;2.為了讓滑塊不會撞到曲柄,所以改為曲柄滑塊機構&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194500.1">&lt;section&gt;
-&lt;p&gt;&lt;span&gt;CoppeliaSim v-rep &lt;/span&gt;連桿運動問題&lt;/p&gt;
+&lt;p&gt;主要問題:&lt;/p&gt;
+&lt;p&gt;1.斜面的接球太斜而且不夠深,會導致球掉出來&lt;/p&gt;
+&lt;p&gt;2.CoppeliaSim v-rep &lt;/span&gt;連桿運動問題&lt;/p&gt;
 &lt;p&gt;一開始在&lt;span&gt;CoppeliaSim&lt;/span&gt;上模擬發現模型無法順利地運轉&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/kpUwzR1XGkY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194505.1">&lt;section&gt;
-&lt;p&gt;CoppeliaSim v-rep 連桿運動問題解決&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;改善方法:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1.將斜面挖深,並且將斜面改為單斜而不是曲型&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;2.CoppeliaSim v-rep 連桿運動問題解決&lt;/p&gt;
 &lt;p&gt;後來才發現原來是尺寸的問題,由於coppliasim對與尺寸可能無法到inventor那麼精準所以要預留空隙,才能順利運轉&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/97fUChcmisk" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413194800.1">&lt;section&gt;
     @others
@@ -292,10 +315,12 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210413202023.1">&lt;section&gt;
 &lt;h2&gt;Lua control speed&lt;/h2&gt;
+&lt;p&gt;使用Lua程式控制coppeliaSim擊球桿的轉速&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="600" height="500" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xGjKBDXPFs"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413202055.1">&lt;section&gt;
 &lt;h2&gt;keyboard control&lt;/h2&gt;
+&lt;p&gt;使用Lua程式寫出可以由鍵盤按鈕控制coppeliaSim的擊球桿&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="600" height="500" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/A5Ws3gGDpjc"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210413202946.1">&lt;section&gt;
@@ -316,6 +341,8 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;參考資料&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsLua.htm"&gt;Remote API functions (Lua)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm"&gt;Regular API reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://kknews.cc/news/3l5m3ey.html"&gt;曲柄機構&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210418230326.1">&lt;section&gt;
 &lt;h2&gt;PDF報告&lt;/h2&gt;
@@ -327,6 +354,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210421095548.1">&lt;section &gt;
 &lt;h3&gt;&lt;strong&gt;2.4.2&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;設計緣由:為了讓球順利擊飛,所以將擊球桿的擊球面改為曲型&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/C-K8pxvnJJE"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -335,11 +363,6 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/w2pv5GlT988"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210421095747.1">&lt;section &gt;
-&lt;h3&gt;&lt;strong&gt;2.4.3&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;擊球桿新增後轉功能，可以有效控制擊球的時機。&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/R4FlyPlJxqw"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/section &gt;</t>
 <t tx="leo.20210421172856.1">&lt;section&gt;
 &lt;h2&gt;Inquire keyboard number&lt;/h2&gt;
 &lt;p&gt;查詢keyboard按鍵&lt;/p&gt;
@@ -350,6 +373,54 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210421173336.1">&lt;section&gt;
 &lt;p&gt;&lt;iframe width="650" height="450" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xye0RDVC8Y"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421200138.1">&lt;section&gt;
+&lt;h2&gt;Lua keyboard Turn back&lt;/h2&gt;
+&lt;p&gt;擊球桿新增後轉功能，可以有效控制擊球的時機。&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/R4FlyPlJxqw"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421200443.1">&lt;section&gt;
+&lt;p&gt;主要問題:&lt;/p&gt;
+&lt;p&gt;1.過於簡陋&lt;/p&gt;
+&lt;p&gt;2.擊球桿會撞到基座&lt;/p&gt;
+&lt;p&gt;改善方法:&lt;/p&gt;
+&lt;p&gt;1.擊球桿的形狀&lt;/p&gt;
+&lt;p&gt;2.滑塊的距離縮短&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421201139.1">&lt;section&gt;
+&lt;p&gt;主要問題:&lt;/p&gt;
+&lt;p&gt;1.擊球時,球無法順利擊飛&lt;/p&gt;
+&lt;p&gt;改善方法:&lt;/p&gt;
+&lt;p&gt;1.將擊球桿的擊球面改為曲型&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421201250.1">&lt;section&gt;
+&lt;h2&gt;總結&lt;/h2&gt;
+&lt;p&gt;這次stage2分組時,我們學習到了如何跟同學有效的進行設計上的討論,並且解決設計上的問題。&lt;/p&gt;
+&lt;p&gt;而且我們發現與stage1不同4人進行協同時,容易有版本錯誤的問題要解決。&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202025.1">&lt;section&gt;
+&lt;p&gt;主要問題:&lt;/p&gt;
+&lt;p&gt;1.滑塊會撞到曲柄&lt;/p&gt;
+&lt;p&gt;改善方法:&lt;/p&gt;
+&lt;p&gt;1.擊球桿改為直的&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202215.1">&lt;section&gt;
+&lt;p&gt;主要問題:&lt;/p&gt;
+&lt;p&gt;1.球模擬時不一定是直線&lt;/p&gt;
+&lt;p&gt;改善方法:&lt;/p&gt;
+&lt;p&gt;1.所以將斜坡面積變大&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202515.1">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.3-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202606.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/97fUChcmisk" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202628.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe width="600" height="450" src="//www.youtube.com/embed/kpUwzR1XGkY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421202706.1">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="600" height="400"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>

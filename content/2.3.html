@@ -123,7 +123,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li class='has-children'><a href='2人小組.html'>2人小組</a><ul class='dropdown'><li class='has-children'><a href='ag21-籃球機.html'>ag21-籃球機</a><ul class='dropdown'><li><a href='檢討.html'>檢討</a></li></li></ul></ul><li class='has-children'><a href='4人小組.html'>4人小組</a><ul class='dropdown'><li><a href='產品目標.html'>產品目標</a><li><a href='Lua control speed.html'>Lua control speed</a><li><a href='keyboard control.html'>keyboard control</a><li><a href='Inquire keyboard number.html'>Inquire keyboard number</a></li></ul><li class='has-children'><a href='籃球機.html'>籃球機</a><ul class='dropdown'><li><a href='版本一.html'>版本一</a><li class='has-children'><a href='版本二.html'>版本二</a><ul class='dropdown'><li><a href='2.1.html'>2.1</a><li><a href='2.2.html'>2.2</a><li><a href='2.3.html'>2.3</a><li><a href='2.4.html'>2.4</a></li></li></ul></ul><li><a href='Heroku 網站建立.html'>Heroku 網站建立</a><li class='has-children'><a href='Error exclude.html'>Error exclude</a><ul class='dropdown'><li><a href='協同錯誤.html'>協同錯誤</a></li></ul><li><a href='協同報告.html'>協同報告</a></li>
+                     <li><a href='About.html'>About</a><li class='has-children'><a href='2人小組.html'>2人小組</a><ul class='dropdown'><li class='has-children'><a href='ag21-籃球機.html'>ag21-籃球機</a><ul class='dropdown'><li><a href='檢討.html'>檢討</a></li></li></ul></ul><li class='has-children'><a href='4人小組.html'>4人小組</a><ul class='dropdown'><li><a href='產品目標.html'>產品目標</a></li></ul><li class='has-children'><a href='coppeliaSim模擬.html'>coppeliaSim模擬</a><ul class='dropdown'><li><a href='Lua control speed.html'>Lua control speed</a><li><a href='keyboard control.html'>keyboard control</a><li><a href='Inquire keyboard number.html'>Inquire keyboard number</a><li><a href='Lua keyboard Turn back.html'>Lua keyboard Turn back</a></li></ul><li class='has-children'><a href='籃球機.html'>籃球機</a><ul class='dropdown'><li><a href='版本一.html'>版本一</a><li class='has-children'><a href='版本二.html'>版本二</a><ul class='dropdown'><li><a href='2.1.html'>2.1</a><li><a href='2.2.html'>2.2</a><li><a href='2.3.html'>2.3</a><li><a href='2.4.html'>2.4</a></li></li></ul></ul><li><a href='Heroku 網站建立.html'>Heroku 網站建立</a><li class='has-children'><a href='Error exclude.html'>Error exclude</a><ul class='dropdown'><li><a href='協同錯誤.html'>協同錯誤</a></li></ul><li><a href='協同報告.html'>協同報告</a></li>
                       </ul>
                 </nav>
               </div>
@@ -136,18 +136,25 @@ img.add_border {
         </header>
     <div id="tipue_search_content">2.2 << <a href='2.2.html'>Previous</a> <a href='2.4.html'>Next</a> >> 2.4<br /><h1>2.3</h1>
 <p><a href="https://drive.google.com/drive/folders/1gVL4FmbeqfpH1UVUGS85cwdQSOvvy683?usp=sharing">籃球機2.3</a></p>
+<p>設計緣由:</p>
+<p>1.為了確定可以完整的接到球,所以將斜坡面積變大</p>
+<p>2.為了讓滑塊不會撞到曲柄,所以改為曲柄滑塊機構</p>
 <p><img alt="" height="238" src="https://40823125.github.io/stage2-ag12/images/2.3-1.jpg" width="500"/></p>
 <p><img alt="" height="238" src="https://40823125.github.io/stage2-ag12/images/2.3-2.jpg" width="500"/></p>
-<p><span>CoppeliaSim v-rep 連桿運動問題</span></p>
+<p>主要問題:</p>
+<p>1.斜面的接球太斜而且不夠深,會導致球掉出來</p>
+<p>2.CoppeliaSim v-rep 連桿運動問題</p>
 <p><span>一開始在CoppeliaSim上模擬發現模型無法順利地運轉</span></p>
-<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/kpUwzR1XGkY" width="560"></iframe></p>
-<p><span>CoppeliaSim v-rep 連桿運動問題 解決</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="450" src="//www.youtube.com/embed/kpUwzR1XGkY" width="600"></iframe></p>
+<p><span>改善方法:</span></p>
+<p><span>1.將斜面挖深,並且將斜面改為單斜而不是曲型</span></p>
+<p><span>2.CoppeliaSim v-rep 連桿運動問題 解決</span></p>
 <p><span>後來才發現原來是尺寸的問題</span></p>
 <p><span>由於coppliasim對與尺寸可能無法到inventor那麼精準所以要預留空隙,才能順利運轉</span></p>
 <p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/97fUChcmisk" width="560"></iframe></p>
 <div class="container"><nav>
-<div id="tipue_search_content">
-<br />2.2 << <a href='2.2.html'>Previous</a> <a href='2.4.html'>Next</a> >> 2.4</div>
+<div id="tipue_search_content"></div>
+</nav></div><br />2.2 << <a href='2.2.html'>Previous</a> <a href='2.4.html'>Next</a> >> 2.4</div>
         
     <!-- footer -->
       <div class="container">
