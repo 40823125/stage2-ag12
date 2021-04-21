@@ -28,6 +28,8 @@
 <v t="leo.20210413202023.1"><vh>slide  3-1</vh></v>
 <v t="leo.20210413202055.1"><vh>slide  3-2</vh></v>
 <v t="leo.20210415133637.1"><vh>slide  3-2</vh></v>
+<v t="leo.20210421172856.1"><vh>slide  3-3</vh></v>
+<v t="leo.20210421173336.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170535.1"><vh>slide  4</vh>
 <v t="leo.20210413193331.1"><vh>slide 4-1</vh></v>
@@ -235,7 +237,7 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;W8&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1CCFrCBzbBhC9gnwaUUMYi5Cf7kd8Xkcz?usp=sharing"&gt;籃球機2.4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2.4.1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="700" height="450"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src="./../images/2.4-2.jpg" alt="" width="600" height="400"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -319,8 +321,8 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;PDF報告&lt;/h2&gt;
 &lt;p&gt;&lt;iframe height="550" src="./../downloads/2021-協同產品設計實習-stage2-ag12.pdf" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210418230603.1">&lt;/section&gt;
-&lt;p&gt;工作流程&lt;/p&gt;
+<t tx="leo.20210418230603.1">&lt;section&gt;
+&lt;h2&gt;工作流程&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" src="./../images/Screenshot 2021-04-15 155510.png" width="600" height="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421095548.1">&lt;section &gt;
@@ -338,5 +340,16 @@ vertical: body pane on the botton</t>
 &lt;p&gt;擊球桿新增後轉功能，可以有效控制擊球的時機。&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="600" height="450" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/R4FlyPlJxqw"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section &gt;</t>
+<t tx="leo.20210421172856.1">&lt;section&gt;
+&lt;h2&gt;Inquire keyboard number&lt;/h2&gt;
+&lt;p&gt;查詢keyboard按鍵&lt;/p&gt;
+&lt;p&gt;print(auxiliaryData[1])&lt;/p&gt;
+      &lt;p&gt;if (auxiliaryData[1]==string.byte(' ')) then&lt;/p&gt;
+&lt;p&gt;介紹:&lt;/p&gt;
+&lt;p&gt;可以查詢鍵盤代碼&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421173336.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe width="650" height="450" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/4xye0RDVC8Y"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
